@@ -1,0 +1,18 @@
+.status-select {
+  width: 200px;
+  height: 35px;
+  font-size: 16px;
+  padding: 0 15px;
+
+ 
+  border: 1px solid #d1d5db;
+  border-radius: 8px;
+
+  outline: none;
+  cursor: pointer;
+}
+
+.status-select:focus {
+  border-color: #ef4444;
+  box-shadow: 0 0 0 2px rgba(239, 68, 68, 0.2);
+}
